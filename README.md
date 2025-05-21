@@ -1,3 +1,7 @@
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/your-username/Abdelaazizafquir/blob/output/github-contribution-grid-snake.svg)
+
 <h1 align="center">Hi there 👋, I'm abdelaaziz</h1>
 <h3 align="center">💻 Full Stack Developer | 🤖 AI/ML Enthusiast | 🌍 Open Source Contributor</h3>
 
