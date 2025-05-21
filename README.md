@@ -71,9 +71,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?Abdelaazizafquir&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdelaazizafquir&show_icons=true&theme=radical" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?Abdelaazizafquir&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelaazizafquir&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -81,5 +81,5 @@
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-profile](https://www.linkedin.com/in/abdelaziz-afquir-285514351" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/abdelaziz-afquir-285514351" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" /></a>
 </p>
