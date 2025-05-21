@@ -1,6 +1,3 @@
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/your-username/Abdelaazizafquir/blob/output/github-contribution-grid-snake.svg)
 
 <h1 align="center">Hi there 👋, I'm abdelaaziz</h1>
 <h3 align="center">💻 Full Stack Developer | 🤖 AI/ML Enthusiast | 🌍 Open Source Contributor</h3>
@@ -99,3 +96,5 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
+
+![snake gif](https://github.com/Abdelaazizafquir/Abdelaazizafquir/blob/output/github-contribution-grid-snake.svg)
