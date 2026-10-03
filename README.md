@@ -10,10 +10,10 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdelaziz-afquir-285514351">
+  <a href="https://www.linkedin.com/in/abdelaziz-afquir">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:afquir.a038@ucd.ac.ma">
+  <a href="mailto:afquir1abdelaziz@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -87,6 +87,6 @@
 <h1 align="center">🧊 3D Contribution Calendar</h1>
 
 <div align="center">
-  <i>(Action required in repository settings to generate this graph)</i><br>
+  <i></i><br>
   <img src="https://raw.githubusercontent.com/Abdelaazizafquir/Abdelaazizafquir/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contributions" width="100%" onerror="this.src='https://raw.githubusercontent.com/Abdelaazizafquir/Abdelaazizafquir/output/github-contribution-grid-snake.svg'; this.alt='Snake Backup';"/>
 </div>
